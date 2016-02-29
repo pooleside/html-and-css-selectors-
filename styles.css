@@ -109,3 +109,12 @@ div#content
   margin-left: 190px;
   margin-right: 200px;
 }
+
+div#content h2
+{
+  font-size: 2em;
+  color: #036;
+  margin: 0;
+  padding-top: 1em;
+  font-weight: normal;
+}
