@@ -56,3 +56,10 @@ div#navigation
   width: 150px;
   padding-top: 2em;
 }
+
+div#navigation ul
+{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
