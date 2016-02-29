@@ -63,3 +63,5 @@ div#navigation ul
   padding: 0;
   margin: 0;
 }
+
+div#navigation ul li { margin-top: 4px; }
