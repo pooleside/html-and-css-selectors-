@@ -42,3 +42,10 @@ div#container
   background-image: url(nav_col_base.jpg);
   background-repeat: repeat-y;
 }
+
+div#container2
+{
+  background-image: url(more_col_base.jpg);
+  background-repeat: repeat-y;
+  background-position: right;
+}
