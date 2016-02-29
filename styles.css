@@ -65,3 +65,12 @@ div#navigation ul
 }
 
 div#navigation ul li { margin-top: 4px; }
+
+#navigation ul li a
+{
+  display: block;
+  width: 135px;
+  padding: 3px 5px 3px 10px;
+  text-decoration: none;
+  color: #000;
+}
