@@ -126,3 +126,11 @@ div#content { line-height: 150% }
   clear:both;
   height: 1em;
 }
+
+div#footer
+{
+  clear:both;
+  padding: .5em 1em;
+  border-top: 1px solid #999;
+  text-align: right;
+}
