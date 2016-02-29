@@ -84,3 +84,12 @@ background-color: #ccc;
 background-image: url(nav_base2.jpg);
 background-repeat: repeat-y;
 }
+
+div#more
+{
+  float: right;
+  width: 60px;
+  margin: 0;
+  padding: 2em 10px 0 0;
+  color: #fff;
+}
