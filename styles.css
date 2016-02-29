@@ -49,3 +49,10 @@ div#container2
   background-repeat: repeat-y;
   background-position: right;
 }
+
+div#navigation
+{
+  float: left;;
+  width: 150px;
+  padding-top: 2em;
+}
