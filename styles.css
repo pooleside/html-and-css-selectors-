@@ -36,3 +36,9 @@ div#banner h1
   font-size: 2.2em;
   font-weight: normal;
 }
+
+div#container
+{
+  background-image: url(nav_col_base.jpg);
+  background-repeat: repeat-y;
+}
