@@ -103,3 +103,9 @@ div#more h3
   background-position: right;
   background-repeat: repeat-y;
 }
+
+div#content
+{
+  margin-left: 190px;
+  margin-right: 200px;
+}
