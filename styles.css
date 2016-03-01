@@ -26,7 +26,7 @@ a:hover  ,a:active
 div#banner
 {
   color: #fff;
-  background-color: #333;
+  background-image: url(country_fair2.jpg);
   border-bottom: 1px solid #000;
 }
 div#banner h1
@@ -88,7 +88,7 @@ background-repeat: repeat-y;
 div#more
 {
   float: right;
-  width: 60px;
+  width: 160px;
   margin: 0;
   padding: 2em 10px 0 0;
   color: #fff;
@@ -133,4 +133,16 @@ div#footer
   padding: .5em 1em;
   border-top: 1px solid #999;
   text-align: right;
+}
+
+div#footer ul
+{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+div#footer li
+{
+  display: inline;
+  margin-right: 1em;
 }
